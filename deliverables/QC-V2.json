@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "style": "TikTok bold, approved direction",
+  "duration_seconds": 44.166667,
+  "frames": 1325,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "size_bytes": 27045981,
+  "caption_groups": 24,
+  "punch_scale_range": [
+    1.05,
+    1.22
+  ],
+  "trimmed_source_intervals": [
+    [
+      7.833333333333333,
+      8.533333333333333
+    ],
+    [
+      27.233333333333334,
+      27.566666666666666
+    ]
+  ],
+  "black_intervals": [],
+  "hyperframes_findings": 0,
+  "integrated_loudness_lufs": -15.8,
+  "true_peak_dbfs": -1.3,
+  "audio_listened_by_agent": false,
+  "source_resolution": [
+    720,
+    1280
+  ],
+  "caption_line_layout": "manually grouped, statically glyph-fitted",
+  "original_upload_preserved": true,
+  "note": "ASR-based captions edited for readable phrasing; service claims not independently verified."
+}

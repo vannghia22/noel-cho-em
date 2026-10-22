@@ -1,13 +1,15 @@
-# Video quảng cáo dịch vụ
+# Video quảng cáo dịch vụ — TikTok V2
 
-Đã dựng bằng HyperFrames từ footage người dùng, giữ giọng nói thật, phụ đề tiếng Việt highlight từng từ, chữ nhấn điều kiện/hạn mức/khu vực, zoom nhẹ và audio cân bằng.
+Bản dựng lại theo hướng người dùng chọn: chữ lớn, nhịp nhanh, punch-in và minh họa theo lời nói.
 
-- [Tải video MP4](deliverables/service-promo-final.mp4?raw=true)
-- [Tải source project HyperFrames](deliverables/hyperframes-source.zip?raw=true)
-- [Phụ đề SRT](deliverables/captions.srt)
-- [Kết quả kiểm tra](deliverables/QC.md)
-- [Nguồn tài nguyên](deliverables/ASSETS.md)
+- [Tải MP4 V2](deliverables/service-promo-tiktok-v2.mp4?raw=true)
+- [Tải project HyperFrames V2](deliverables/hyperframes-source-v2.zip?raw=true)
+- [Phụ đề V2](deliverables/captions-v2.srt)
+- [Kết quả kiểm tra V2](deliverables/QC-V2.md)
+- [Tài nguyên V2](deliverables/ASSETS-V2.md)
 
-**1080×1920 · 30fps · 45,6 giây · H.264/AAC · 26,6 MB.** Nguồn 720p được upscale.
+1080×1920 ·30fps ·44,2giây ·H.264/AAC.24cụm chữ lớn, camera punch-in6–22%, minh họa căn cước/tiền/địa điểm/hồ sơ,2khoảng nghỉ đã cắt đồng bộ.
 
-Giải nén source, mở README.md trong thư mục service-promo để chỉnh sửa hoặc render lại. File gốc được giữ trong source. Audio được đo bằng công cụ; agent không nghe trực tiếp. Không tìm thấy hai từ mẫu “vay”/“nợ xấu” trong các lượt nhận dạng nên không chèn bíp tùy tiện. Xem QC.md để biết phạm vi kiểm tra và giới hạn.
+Nguồn720pupscale;audio được đo nhưng agent chưa nghe trực tiếp.Phụ đề dựa trênASRđã đối chiếu và biên tập câu chữ để dễ đọc.
+
+[Bản V1 được giữ riêng](deliverables/service-promo-final.mp4?raw=true).
